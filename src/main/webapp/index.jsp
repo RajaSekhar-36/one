@@ -9,8 +9,8 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 
-	<h1 style="color: pink; font-size: 40px;" align="center">Hello Raja</h1>
-	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE Welcome You</h1>
+	<h1 style="color: black; font-size: 40px;" align="center">Hello Raja</h1>
+	<h1 style="color: black; font-size: 40px;" align="center">WE ARE Welcome You</h1>
 	
 	
 	
